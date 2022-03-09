@@ -1,4 +1,4 @@
-Electronics Documenation
+Electronics Guides
 ===================================
 
 The following is a set of guides for learning electronics and software.
